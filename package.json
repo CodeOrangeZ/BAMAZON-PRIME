@@ -1,0 +1,22 @@
+{
+  "name": "bamazon_prime",
+  "version": "1.0.0",
+  "description": "node application based on amazon storefront using mysql db.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeOrangeZ/BAMAZON-PRIME.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "Zackery Rilling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeOrangeZ/BAMAZON-PRIME/issues"
+  },
+  "homepage": "https://github.com/CodeOrangeZ/BAMAZON-PRIME#readme"
+}
